@@ -21,3 +21,6 @@ from collections import defaultdict
 from decimal import Decimal
 inf = float('inf')
 dic = defaultdict(lambda:0)
+
+n = N()
+print(n)
