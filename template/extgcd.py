@@ -20,7 +20,7 @@ def extGCD_notRecursive(a,b):# ax + by = gcd(a,b)
         a, b = b, a % b
     return x, y
 
-def modinverse(a,m):# return a_inverse on mod m
+def modinverse(a,m):# returns a_inverse on mod m
     b = m
     x,y = 1,0
     while b:
