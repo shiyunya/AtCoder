@@ -1,9 +1,6 @@
 Pipfile*
 .vscode
 print_schedule.py
-rinkou.py
-atcoder[0-9].py
 [a-z].py
 *.c
 *.cpp
-*.json
