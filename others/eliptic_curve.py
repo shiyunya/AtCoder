@@ -1,3 +1,4 @@
+# 楕円曲線
 inf = float('inf')
 mod = 7
 a = 3
